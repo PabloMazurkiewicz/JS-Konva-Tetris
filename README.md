@@ -1,8 +1,8 @@
 
 
-# Tetris- Game
+# Konva-Tetris
 
-This is a simple Tetris game implemented in JavaScript using Konva.js for graphics rendering.This project was developed as part of an internship program at Qene Games. 
+This is a simple Tetris game implemented in JavaScript using Konva.js for graphics rendering.
 
 ## Table of Contents
 
@@ -15,9 +15,6 @@ This is a simple Tetris game implemented in JavaScript using Konva.js for graphi
   - [Running the Game](#running-the-game)
   - [How to Play](#how-to-play)
   - [Controls](#controls)
-  - [Screenshots](#screenshots)
-  - [Contributing](#contributing)
-  - [License](#license)
 
 ## Introduction
 
@@ -42,11 +39,11 @@ This project implements a basic Tetris-like game where players can control tetro
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Qene-Internship/tetris-haile.git
+   git clone https://github.com/PabloMazurkiewicz/JS-Konva-Tetris.git
 2. Navigate to the project directory:
    
    ```bash
-   cd tetris-haile
+   cd JS-Konva-Tetris
 
 3. Open `welcome.html` in your web browser.
 
@@ -70,22 +67,4 @@ Before running the game, ensure you have an active internet connection as the ga
 - `↑` Key: Rotate tetromino clockwise.
 - `p` Key: Pause/unpause game.
 - 'space' Key: Hard Drop.
-
-## Screenshots
-
-![Screenshot 2024-08-05 201426](https://github.com/user-attachments/assets/a1b314e5-4e01-43bd-8ef1-4d01da93f1ad)
-![Screenshot 2024-08-05 201555](https://github.com/user-attachments/assets/2b229c46-228a-4cc4-b461-ef19cdbb4af1)
-![Screenshot 2024-08-05 201635](https://github.com/user-attachments/assets/5e87a648-ddef-4947-a4df-5cdb81fdc31a)
-
-
-## Contributing
-
-Contributions are welcome! Fork the repository and submit a pull request.
-
-## License
-
-The code in this repository is licensed under the [MIT License](LICENSE).
-
----
-
 
